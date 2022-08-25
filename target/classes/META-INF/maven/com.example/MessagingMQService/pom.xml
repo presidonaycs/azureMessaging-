@@ -14,7 +14,7 @@
 	<name>MessagingMQService</name>
 	<description>Project for RestaurantManagement App</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
